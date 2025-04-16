@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "167261F4-BEB9-45B7-AE80-4978AA7F6D38": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "75FAFD8B-4B1C-490B-A84B-8A757BDC0668": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "AEA8B85E-B593-4BE7-88B3-7E5746329693": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MLModelKeras15_revised.mlmodel",
+            "path": "com.apple.CoreML/MLModelKeras15_revised.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "AEA8B85E-B593-4BE7-88B3-7E5746329693"
+}

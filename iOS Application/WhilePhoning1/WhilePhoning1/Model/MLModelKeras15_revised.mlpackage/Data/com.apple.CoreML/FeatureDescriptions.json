@@ -1,0 +1,21 @@
+{
+  "Inputs" : {
+    "sensorDataInput" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "Outputs" : {
+    "output1" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "classLabel" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}
